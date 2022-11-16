@@ -1,23 +1,18 @@
-import logo from './logo.svg';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import Nav from './components/Nav';
+import Selector from './components/Selector';
+import Chart from './components/Charts';
+import {Container} from 'react-bootstrap'
+import chartCollections from './data/chart-collections.json'
 
 function App() {
+  const charts = chartCollections
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <Nav />
+        <Selector />
+        <Chart chartCollections={charts}/>
     </div>
   );
 }
