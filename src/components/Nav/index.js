@@ -5,7 +5,7 @@ function Nav() {
   return (
     <>
       <Navbar bg="dark" variant="dark">
-        <Container>
+        
           <Navbar.Brand href="#home">
             <img
               alt=""
@@ -16,7 +16,7 @@ function Nav() {
             />{' '}
             Highstock Dashboard
           </Navbar.Brand>
-        </Container>
+        
       </Navbar>
     </>
   )

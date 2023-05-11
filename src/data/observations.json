@@ -13,7 +13,7 @@
       "value": "4723733.0"
     },
     {
-      "realtime_start": "2021-08-10",
+      "realtime_start": "2021-08-12",
       "realtime_end": "2021-08-10",
       "date": "2021-01-20",
       "value": "4743552.0"
@@ -24,19 +24,19 @@
       "realtime_start": "2021-08-10",
       "realtime_end": "2021-08-10",
       "date": "2021-01-06",
-      "value": "4699421.0"
+      "value": "5399982"
     },
     {
       "realtime_start": "2021-08-10",
       "realtime_end": "2021-08-10",
       "date": "2021-01-13",
-      "value": "4723733.0"
+      "value": "43246693"
     },
     {
-      "realtime_start": "2021-08-10",
+      "realtime_start": "2021-08-12",
       "realtime_end": "2021-08-10",
       "date": "2021-01-20",
-      "value": "4743552.0"
+      "value": "2948590"
     }
   ],
   "A34HNO": [
@@ -44,19 +44,19 @@
       "realtime_start": "2021-08-10",
       "realtime_end": "2021-08-10",
       "date": "2021-01-06",
-      "value": "4699421.0"
+      "value": "4234555.0"
     },
     {
       "realtime_start": "2021-08-10",
       "realtime_end": "2021-08-10",
       "date": "2021-01-13",
-      "value": "4723733.0"
+      "value": "2346266.0"
     },
     {
-      "realtime_start": "2021-08-10",
+      "realtime_start": "2021-08-12",
       "realtime_end": "2021-08-10",
       "date": "2021-01-20",
-      "value": "4743552.0"
+      "value": "7569232.0"
     }
   ]
 }
